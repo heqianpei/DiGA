@@ -1,12 +1,6 @@
 dataset_paths = {
-	#  Face Datasets (FFHQ - train, CelebA-HQ - test)
-	# 'ffhq': '/home/zhangfengda/CelebA/jpg_align_celeba_Smiling_Young_20000_0.111_traindata',
-	# 'ffhq': '/home/zhangfengda/CelebA/jpg_align_celeba_Blond_Hair_Male_20000_0.111_traindata',
-    # 'ffhq': '/home/zhangfengda/CelebA/jpg_align_celeba_Smiling_Male_Young_20000_1:2:2:15_traindata',
-    # 'ffhq': '/home/zhangfengda/CelebA/jpg_align_celeba_Big_Nose_Male_20000_0.111_traindata',
-	'ffhq_val': '/home/zhangfengda/CelebA/val_HFGI',
-	'ffhq': '/home/zhangfengda/CelebA/jpg_align_celeba_Smiling_Male_20000_0.111_traindata',
-	# 'ffhq_val': '/home/zhangfengda/UTKface/HFGI_test',
+	'ffhq_val': './data/val_HFGI',
+	'ffhq': './data/jpg_align_celeba_Smiling_Male_20000_0.111_traindata',
 
 	#  Cars Dataset (Stanford cars)
 	'cars_train': '',
