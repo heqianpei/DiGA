@@ -12,7 +12,6 @@
 <img src="pics/method2.png" width="600px"/>   -->
 
 <img src="pics/result.jpeg" width="1500px"/>
-<center>Bias detection results on CelebA dataset</center>
 
 
 
